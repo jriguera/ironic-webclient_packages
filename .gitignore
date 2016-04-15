@@ -1,0 +1,4 @@
+*.tar.gz
+
+# Operating system specific files
+.DS_Store # OSX Folder Caches
