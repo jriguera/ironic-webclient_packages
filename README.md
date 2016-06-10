@@ -13,6 +13,8 @@ This is a project to build different packages for ironic-webclient
 
 For now, it only creates tarballs ready to use in static http server.
 
+The main reason of this project is to provide packages for https://github.com/jriguera/ansible-ironic-standalone
+
 
 Building
 --------
